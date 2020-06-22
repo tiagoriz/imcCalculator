@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/victorsoares96">
-    <img alt="Made by Victor Soares" src="https://img.shields.io/badge/made%20by-victorsoares96-blue">
+  <a href="https://github.com/tiagoriz">
+    <img alt="Made by Tiago Rizonildo" src="https://img.shields.io/badge/made%20by-tiagoriz-blue">
     <img alt="Version 1.0" src="https://img.shields.io/badge/version-1.0-brightgreen">
-    <img alt="shield" src="https://img.shields.io/david/victorsoares96/imcCalculator">
-    <img alt="size" src="https://img.shields.io/github/languages/code-size/victorsoares96/imcCalculator">
+    <img alt="shield" src="https://img.shields.io/david/tiagoriz/imcCalculator">
+    <img alt="size" src="https://img.shields.io/github/languages/code-size/tiagoriz/imcCalculator">
   </a>
 </p>
 
@@ -41,7 +41,7 @@ do usuário e retornar o resultado desse calculo ao mesmo.
   - [Lottie React Native](https://github.com/react-native-community/lottie-react-native)
 
 ## Instruções
-- `git clone https://github.com/victorsoares96/imcCalculator.git`
+- `git clone https://github.com/tiagoriz/imcCalculator.git`
 - `cd imcCalculator`
 - `yarn install`
 
