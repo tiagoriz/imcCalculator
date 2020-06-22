@@ -58,3 +58,4 @@ do usuário e retornar o resultado desse calculo ao mesmo.
 - [X] Theme Switcher (Light/Dark) (React Theme Context)
 - [X] EvaIconsPack (Eva Design System)
 - [X] Lottie Animations (Lottie React Native)
+"# imcCalculator" 
